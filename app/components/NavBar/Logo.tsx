@@ -8,7 +8,7 @@ const Logo = () => {
     return (
         <Image
             alt="AirBnB"
-            className="hidden md:block cursor-pointer"
+            className="block cursor-pointer"
             height="100"
             width="100"
             src="/images/Logo.png"
