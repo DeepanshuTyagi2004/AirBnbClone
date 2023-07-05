@@ -7,7 +7,8 @@ const Search = () => {
         <div
             className="
                 border-[1px]
-                w-auto
+                w-full
+                md:w-auto
                 py-2
                 rounded-full
                 shadow-sm
